@@ -1,20 +1,6 @@
+ Enter Summary Bellow
  - - - - -   Beginning of Undergraduate Record   - - - - -
 
-                                     Sem 1 2020
-
-Program  : B Engineering (Hons)
-
-Plan     : Flexible First Year Undeclared
-
-CSSE     1001       Software Engineering              2.00     2.00 5       10.000
-
-ENGG     1100       Engineering Design                2.00     2.00 7       14.000
-
-INFS     1200       Intro to Information Systems      2.00     2.00 6       12.000
-
-MATH     1051       Calculus & Linear Algebra I       2.00     2.00 5       10.000
-
-         TERM GPA :     5.750      TERM TOTALS :      8.00     8.00         46.000
 
 
 ***Study Period impacted by COVID-19***
@@ -36,40 +22,6 @@ MATH     1052       Multivariate Calculus & ODEs      2.00     2.00 6       12.0
 MATH     1061       Discrete Mathematics              2.00     2.00 5       10.000
 
          TERM GPA :     6.000      TERM TOTALS :      8.00     8.00         48.000
-
-
-
-                                     Sem 1 2021
-
-Program  : B Engineering (Hons)
-
-Plan     : Software Engineering Major
-
-CSSE     2002       Programming in the Large          2.00     2.00 6       12.000
-
-CSSE     2010       Intro to Computer Systems         2.00     2.00 5       10.000
-
-DECO     1400       Introduction to Web Design        2.00     2.00 6       12.000
-
-DECO     2500       Human-Computer Interaction        2.00     2.00 4        8.000
-
-         TERM GPA :     5.250      TERM TOTALS :      8.00     8.00         42.000
-
-
-
-                                     Sem 2 2021
-
-Program  : B Engineering (Hons)
-
-Plan     : Software Engineering Major
-
-CSSE     2310       Comp Sys Prncpls & Programming    2.00     2.00 7       14.000
-
-DECO     2800       Design Computing Studio 2         2.00     2.00 5       10.000
-
-STAT     2203       Probability Models & Analysis     2.00     2.00 5       10.000
-
-         TERM GPA :     5.667      TERM TOTALS :      6.00     6.00         34.000
 
 
 

@@ -28,5 +28,9 @@ for x, y, z in courses:
     basic += y
     top += x * y
     bottom += x
+f = open("WGPA-Results.txt", "w")
+f.write("WGPA:" + str(top/bottom)+ '\n')
+f.write("GPA:" + str(basic/len(courses)) + '\n')
+f.close()
 print("WGPA:", top/bottom)
 print("GPA:", basic/len(courses))
